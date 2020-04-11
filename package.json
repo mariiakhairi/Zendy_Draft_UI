@@ -1,0 +1,22 @@
+{
+  "name": "zendy_draft_ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariiakhairi/Zendy_Draft_UI.git"
+  },
+  "author": "Mariia Khairi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariiakhairi/Zendy_Draft_UI/issues"
+  },
+  "homepage": "https://github.com/mariiakhairi/Zendy_Draft_UI#readme",
+  "dependencies": {
+    "cypress": "^4.3.0"
+  }
+}
